@@ -87,7 +87,7 @@ public abstract class HttpServlet extends GenericServlet {
 
 <br/>
    
-**8. 서버의 응답을 Cleint로 반환함**      
+**8. 서버의 응답을 Client로 반환함**      
 
 <br/><br/>
 
