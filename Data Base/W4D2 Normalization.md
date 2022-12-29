@@ -205,8 +205,6 @@
 
 기본키를 결정한 attribute만 남기고, 그 종속성은 다른 테이블로 분리
 
-# (숙제) 반정규화
-
 # 참고
 
 [[DB] 정규화(Normalization)란? 정규화 예시, 1NF, 2NF, 3NF, BCNF](https://code-lab1.tistory.com/48)
